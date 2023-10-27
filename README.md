@@ -6,6 +6,9 @@
 ## Project Description
 This a JS application that allows users to plan their workday. When uers enter text in the textfield and click save, the task is then saved to local storage. The color of the textfield is based on the time of day. Tasks in the past appear as gray, current tasks as red, and future tasks as green.
 
+## Git Page URL
+* https://spritchard54.github.io/JS_WorkDayScheduler/
+
 ## Lagnauages used in app
 1. HTML
 2. CSS
